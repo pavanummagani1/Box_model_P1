@@ -1,0 +1,47 @@
+.container{
+    /* height: 500px; */
+    width: 500px;
+    border: 2px;
+    border-style: solid;
+}
+.header{
+    /* height: 100px; */
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border: 2px;
+    border-style: solid;
+}
+.nav-item1, .nav-item2{
+    height: 65px;
+    width: 65px;
+    border: 2px;
+    border-style: solid;
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.nav-item2{
+    margin-left: 315px;
+}
+.article{
+    height: 200px;
+    width: 135px;
+    display: inline-block;
+    border-width: 2px;
+    border-style: solid;
+    margin-bottom: 10px;
+    margin: 12px;
+}
+
+.footer{
+    height: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-width: 2px;
+    border-style: solid;
+}
